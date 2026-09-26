@@ -629,11 +629,11 @@ function App() {
             </p>
 
             <h2 className="text-3xl font-semibold tracking-tight text-[#292326]">
-              Good morning, Arwa
+              Welcome back
             </h2>
 
             <p className="mt-2 text-sm text-[#756D70]">
-              Stay focused and make today count.
+              Here’s what’s happening with your tasks today.
             </p>
           </div>
 
